@@ -31,7 +31,7 @@ window.NIGHT_RUSH_MEMBERS = {
       "id": "instructors",
       "title": "LOVASOKTATÓK",
       "members": [
-        {
+        {       
           "name": "Dorothy Bunnyport",
           "image": "assets/images/members/dorothybunnyport.png",
           "role": "deliquent",
@@ -42,9 +42,9 @@ window.NIGHT_RUSH_MEMBERS = {
           "quote": "Eternity is far too cruel fate for you Ei.",
           "zodiac": "♊︎",
           "age": 20,
-          "instagram": "https://www.instagram.com/lili.suveges/",
+          "instagram": "https://www.instagram.com/dorothyeditsx?igsh=OTF4YnVhaW80bjMz&utm_source=qr",
           "spotify": "",
-          "nickname": "Nita"
+          "nickname": "Nita"       
         },
         {
           "name": "Greta Ponywolf",
