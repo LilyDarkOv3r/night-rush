@@ -25,36 +25,7 @@
       "id": "leaders",
       "title": "VEZETŐK",
       "members": [
-        {
-          "name": "Sally Kingsten",
-          "image": "assets/images/members/gretaponywolf.png",
-          "role": "gang leader",
-          "memberSince": "2026.06.06",
-          "responsible": "programszervezés, vezetés",
-          "book": "Fisheye Placebo, A remény rabjai, Rémálmok bazára, A mobil, Tortúra, Kilenc idegen, Idegen a parton, A beteg, Miután, Nő az ablakban",
-          "show": "Family Guy, South Park, Agymenők, Attack on Titan, K project, Haikyuu, Aoharu x Machinegun, Death Note, Sekaiichi Hatsukoi, Kowabon, Lovely Complex, A remény rabjai, Állj mellém, Miután, A kör, A látogatás, Csókfülke, Két lépés távolság, Kellékfeleség, A sz(ex) az oka mindennek, Anyád napja, Five Nights at Freddy's filmek",
-          "quote": "-",
-          "zodiac": "♎︎",
-          "age": 26,
-          "instagram": "https://www.instagram.com/sallykingsten/",
-          "spotify": "",
-          "nickname": "Szelli"
-        },
-        {
-          "name": "Leila Purpleburn",
-          "image": "assets/images/members/gretaponywolf.png",
-          "role": "gang leader",
-          "memberSince": "2026.06.06",
-          "responsible": "programszervezés, vezetés, social media",
-          "book": "-",
-          "show": "-",
-          "quote": "-",
-          "zodiac": "♌︎",
-          "age": 22,
-          "instagram": "https://www.instagram.com/leilapurpleburn/",
-          "spotify": "",
-          "nickname": "Nóri"
-        }
+       
       ]
     },
     {
@@ -98,33 +69,18 @@
       "title": "BAJNOKOK",
       "members": [
         {
-          "name": "Amira Underburg",
-          "image": "assets/images/members/gretaponywolf.png",
-          "role": "rebel",
-          "memberSince": "2026.06.06",
-          "responsible": "social media",
-          "book": "Boys of Tommen series",
-          "show": "-",
-          "quote": "If he doesn't love you, absolut vodka will.",
-          "zodiac": "♎︎",
-          "age": 18,
-          "instagram": "https://www.instagram.com/amiraunderburg/",
-          "spotify": "",
-          "nickname": "Viki"
-        },
-        {
           "name": "Corinne Rockborn",
-          "image": "assets/images/members/gretaponywolf.png",
+          "image": "assets/images/members/corinnerockborn.png",
           "role": "rebel",
           "memberSince": "2026.06.06",
           "responsible": "fordítás",
-          "book": "-",
-          "show": "-",
-          "quote": "-",
+          "book": " Kerstin Gier: Silber - Az álmok könyve ",
+          "show": "You",
+          "quote": "„Akár azt hiszed, hogy képes vagy rá, akár azt, hogy nem, igazad lesz.” - Kemény Dénes",
           "zodiac": "♉︎",
-          "age": 18,
-          "instagram": "https://www.instagram.com/corinnerockborn/",
-          "spotify": "-",
+          "age": 20,
+          "instagram": "https://www.instagram.com/corinnerockborn , https://www.instagram.com/rina._korina",
+          "spotify": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8?si=Qu4famqVQCq-rHtR0-liMw&utm_source=copy-link",
           "nickname": "Rina"
         }
       ]
