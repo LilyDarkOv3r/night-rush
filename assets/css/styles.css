@@ -992,14 +992,14 @@ a {
 }
 
 .member-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px 28px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  justify-items: center;
+  gap: 14px 20px;;
 }
 
 .member-grid.single {
-  justify-content: center;
+  grid-template-columns: 1fr
 }
 
 .member-profile {
@@ -1810,3 +1810,4 @@ a {
     transition-duration: 1ms !important;
   }
 }
+
