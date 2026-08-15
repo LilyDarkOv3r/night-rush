@@ -1087,12 +1087,12 @@ a {
   left: 50%;
   top: 50%;
   z-index: 29;
-  width: min(520px, calc(100vw - 34px));
+  width: calc(100vw - 32px);
   min-height: 340px;
   display: grid;
-  grid-template-columns: minmax(150px, 0.42fr) minmax(190px, 0.58fr);
-  gap: 18px;
-  padding: 26px 28px 24px;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  padding: 24px 16px;
   border: 2px solid rgba(178, 99, 255, 0.78);
   border-radius: 8px;
   background:
@@ -1136,16 +1136,17 @@ a {
 .member-menu-image-wrap {
   display: grid;
   align-items: start;
-  justify-items: start;
+  justify-items: center;
   align-content: start;
   gap: 0;
   min-height: 255px;
   position: relative;
+  width: 100%;
 }
 
 .member-menu-image {
   width: min(215px, 100%);
-  max-height: 285px;
+  max-height: 190px;
   display: block;
   object-fit: contain;
   position: relative;
@@ -1153,6 +1154,7 @@ a {
   filter:
     drop-shadow(0 0 14px rgba(178, 99, 255, 0.68))
     drop-shadow(0 0 30px rgba(116, 64, 189, 0.45));
+  margin: 0 auto;
 }
 
 .member-menu-nickname {
@@ -1255,7 +1257,7 @@ a {
 
 .member-menu-copy {
   align-self: center;
-  text-align: left;
+  text-align: center;
 }
 
 .member-menu-copy h3 {
