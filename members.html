@@ -3,9 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="https://nightrush.hu/assets/images/gallery/gallery-01.png">
+    <meta property="og:image:type" content="image/png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://nightrush.hu/assets/images/gallery/gallery-01.png">
     <title>Night Rush - Tagjaink</title>
-    <link rel="icon" type="image/png" href="favicon.png">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="assets/images/favicon/favicon.png">
+    <link rel="stylesheet" href="assets/css/styles.css">
   </head>
   <body>
     <header class="site-header">
@@ -25,14 +29,18 @@
       <a class="signup" href="https://forms.gle/75qoNbbadKq58UjFA" target="_blank" rel="noopener noreferrer">Jelentkezem!</a>
     </header>
 
-    <main class="placeholder-page">
-      <section class="placeholder-panel" aria-label="Tagjaink fejlesztés alatt">
-        <p class="eyebrow">Tagjaink</p>
-        <h1>Fejlesztés alatt.</h1>
-        <p>Nézz vissza később! :3</p>
+    <main class="members-page">
+      <section class="members-hero" aria-label="Tagjaink fejléc">
+        <h1>TAGJAINK</h1>
       </section>
+
+      <section class="members-help" aria-label="Tagképek megnyitása">
+        <p>Kattints a karakterekre több információért!</p>
+      </section>
+
+      <section id="members-list" class="members-list" aria-label="Night Rush taglista"></section>
     </main>
+    <script src="assets/data/members-data.js"></script>
+    <script src="assets/js/members.js"></script>
   </body>
 </html>
-
-
