@@ -956,6 +956,7 @@ a {
   margin: 0 auto 20px;
   text-align: center;
   animation: thumb-enter 900ms cubic-bezier(0.16, 1, 0.3, 1) both;
+  max-width: 450px;
 }
 
 .members-error {
