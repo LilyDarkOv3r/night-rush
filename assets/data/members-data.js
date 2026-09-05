@@ -25,6 +25,36 @@ window.NIGHT_RUSH_MEMBERS = {
       "id": "leaders",
       "title": "VEZETŐK",
       "members": [
+        {
+          "name": "Leila Purpleburn",
+          "image": "assets/images/members/leilapurpleburn.png",
+          "role": "gang leader",
+          "memberSince": "2026.06.06",
+          "responsible": "programszervezés, vezetés",
+          "book": "The Shepherd King Series,  Series, de nagyon sok könyv van még amit imádok",
+          "show": "Dr Murphy, Dr House",
+          "quote": "So if your wings won't find you heaven I will bring it down like an ancient bygone. -Sleep Token  ",
+          "zodiac": "♌︎",
+          "age": 22,
+          "instagram": "https://www.instagram.com/leilapurpleburn?igsi=eG82bmpmNXl0OHo3",
+          "spotify": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO",
+          "nickname": "Nóri/Irón"
+        },
+        {
+          "name": "Sally Kingsten",
+          "image": "assets/images/members/sallykingsten.png",
+          "role": "gang leader",
+          "memberSince": "2026.06.06",
+          "responsible": "programszervezés, vezetés",
+          "book": "Rémálmok bazára, Bűn és bűnhődés",
+          "show": "Remény rabjai, Family Guy",
+          "quote": "„...It's just a club, you know. Why are you all putting in so much effort? All that hard work will only make you suffer later.” - Tsukishima Kei",
+          "zodiac": "♎︎",
+          "age": 25,
+          "instagram": " https://www.instagram.com/sallykingsten/",
+          "spotify": "https://youtu.be/uVysW4TWXS0",
+          "nickname": "Szelli"
+        }
       ]
     },
     {
