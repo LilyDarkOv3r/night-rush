@@ -90,13 +90,7 @@ window.NIGHT_RUSH_MEMBERS = {
           "instagram": "https://www.instagram.com/lili.suveges/",
           "spotify": "https://open.spotify.com/track/5dHs5VbA1K1PvtYOx0HUpH?si=fde48dd8bdd74d23",
           "nickname": "Lili"
-        }       
-      ]
-    },
-    {
-      "id": "champions",
-      "title": "BAJNOKOK",
-      "members": [
+        },
         {
           "name": "Corinne Rockborn",
           "image": "assets/images/members/corinnerockborn.png",
@@ -111,7 +105,14 @@ window.NIGHT_RUSH_MEMBERS = {
           "instagram": "https://www.instagram.com/corinnerockborn , https://www.instagram.com/rina._korina",
           "spotify": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8?si=Qu4famqVQCq-rHtR0-liMw&utm_source=copy-link",
           "nickname": "Rina"
-        }
+        }       
+      ]
+    },
+    {
+      "id": "champions",
+      "title": "BAJNOKOK",
+      "members": [
+
       ]
     },
     {
